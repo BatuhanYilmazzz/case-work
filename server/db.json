@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "name-two",
+      "email": "batuhan"
+    },
+    {
+      "id": 3,
+      "name": "name-three",
+      "email": "batuhan"
+    },
+    {
+      "id": 4,
+      "name": "name-four",
+      "email": "batuhan"
+    },
+    {
+      "name": "name-one",
+      "email": "batuhan",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "body": "some other comments here",
+      "postId": 4
+    }
+  ]
+}
